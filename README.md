@@ -80,7 +80,8 @@ Aktualna cena energii dla **bieżącej godziny RCE**.
 | `current_pm_rank` | ranking popołudniowy |
 
 ---
-
+## Podgląd karty ApexCharts
+![Wizualizacja ceny energii](./wykres-preview.jpg)
 ## Przykład kodu karty ApexCharts
 
 <details>
