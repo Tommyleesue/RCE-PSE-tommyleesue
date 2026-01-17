@@ -1,13 +1,4 @@
 ---
-name: "RCE PSE"
-content_in_root: false
-filename: "rce_pse.zip"
-hide_default_branch: true
-homeassistant: "2022.11.0"
-persistent_directory: "rce_pse"
-render_readme: true
-zip_release: true
----
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://hacs.xyz/)
 [![License](https://img.shields.io/github/license/Tommyleesue/RCE-PSE-tommyleesue.svg)](https://github.com/Tommyleesue/RCE-PSE-tommyleesue/blob/main/LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/Tommyleesue/RCE-PSE-tommyleesue)](https://github.com/Tommyleesue/RCE-PSE-tommyleesue/releases)
