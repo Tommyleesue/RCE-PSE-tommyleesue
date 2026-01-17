@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/Tommyleesue/RCE-PSE-tommyleesue)](https://github.com/Tommyleesue/RCE-PSE-tommyleesue/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Tommyleesue/RCE-PSE-tommyleesue)](https://github.com/Tommyleesue/RCE-PSE-tommyleesue/commits/main)
 
-# 🇵🇱 RCE PSE – Rynkowa Cena Energii (PLN/MWh)
+# 🇵🇱 RCE-PSE_tommyleesue – Rynkowa Cena Energii (PLN/MWh)
 
 ![logo](https://raw.githubusercontent.com/Tommyleesue/RCE-PSE-tommyleesue/main/icons/icon.png)
 
