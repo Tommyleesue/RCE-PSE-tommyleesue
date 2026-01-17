@@ -1,0 +1,27 @@
+{
+    "title": "RCE_PSE-tommyleesue - Integration",
+    "config": {
+        "step": {
+            "user": {
+                "description": "Do you want to add RCE_PSE-tommyleesue integration",
+                "title": "RCE_PSE-tommyleesue - Sensor"
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "description": "These values allow tweaking the PSE RCE Sensor result. Please refer to the documentation if a field is unclear.",
+                "data": {
+                    "custom_peak_range": "Custom Peak Hours Range [from-to], e.g. 10-16",
+                    "expensive_hours": "Number of Expensive hours (1-24)",
+                    "cheap_hours": "Number of Cheap hours (1-24)",
+                    "expensive_am_hours": "Number of expensive hours in first half of day (1-12)",
+                    "cheap_am_hours": "Number of cheap hours in first half of day (1-12)",
+                    "expensive_pm_hours": "Number of expensive hours in second half of day (1-12)",
+                    "cheap_pm_hours": "Number of cheap hours in second half of day (1-12)"
+                }
+            }
+        }
+    } 
+}
