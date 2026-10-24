@@ -15,9 +15,10 @@ Integracja **RCE PSE** dla **Home Assistant** udostępnia aktualne oraz prognozo
 Integracja opiera się na **jednym, rozbudowanym sensorze**, który dostarcza:
 - aktualną cenę energii dla bieżącej godziny,
 - pełne ceny godzinowe dla całej doby (1–24),
-- ceny na jutro (publikowane po 15:00),
+- ceny na jutro (publikowane po 14:30),
 - rankingi tanich i drogich godzin,
 - statystyki dobowo-czasowe,
+- Możliwość dodatnia współczynnika podatkowego do ceny RCE
 - dane gotowe do automatyzacji i wizualizacji.
 
 ---
@@ -29,7 +30,7 @@ Integracja opiera się na **jednym, rozbudowanym sensorze**, który dostarcza:
 - 📊 Ranking cen doby (najtańsze / najdroższe godziny)
 - 🌙 Podział **AM (1–12)** oraz **PM (13–24)**
 - 🔥 Konfigurowalny zakres szczytu dobowego
-- 📅 Ceny na jutro dostępne po godzinie **15:00**
+- 📅 Ceny na jutro dostępne po godzinie **14:30**
 - 🎨 Flagi tanich i drogich godzin (AM / PM) do kolorowania wykresów
 - 🧠 Jeden sensor – wiele atrybutów
 
