@@ -1,4 +1,3 @@
----
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://hacs.xyz/)
 [![License](https://img.shields.io/github/license/Tommyleesue/RCE-PSE-tommyleesue.svg)](https://github.com/Tommyleesue/RCE-PSE-tommyleesue/blob/main/LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/Tommyleesue/RCE-PSE-tommyleesue)](https://github.com/Tommyleesue/RCE-PSE-tommyleesue/releases)
