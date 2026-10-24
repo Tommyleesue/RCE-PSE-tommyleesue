@@ -1,0 +1,13 @@
+{
+  "domain": "rce_pse_tommyleesue",
+  "name": "RCE_PSE_Tommyleesue",
+  "codeowners": ["@Tommyleesue"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/tommyleesue/RCE-PSE-tommyleesue",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/tommyleesue/RCE-PSE-tommyleesue/issues",
+  "requirements": [],
+  "logo": "https://raw.githubusercontent.com/Tommyleesue/RCE-PSE-tommyleesue/main/icons/icon.png",
+  "version": "1.1.0"
+}
